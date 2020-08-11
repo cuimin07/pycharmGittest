@@ -5,3 +5,6 @@
 # @Author  : CuiMin
 
 ''' this is git on pycharm test '''
+
+
+''' test add manage '''
