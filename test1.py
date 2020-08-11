@@ -8,3 +8,6 @@
 
 
 ''' test add manage '''
+
+def test():
+    pass
